@@ -18,7 +18,7 @@ Framework to work a system.
 * **A strategies** is a series of high level process in order to perform something.
 * **A principle** is a guideline composed by informations.
 
-#### Framework composition
+### Framework composition
 
 * **Define "what ?"**
   * System composition **definition** *(to know how to optimize the system)*
