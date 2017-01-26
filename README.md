@@ -3,11 +3,11 @@
 Framework to work any system.
 
 ### Introduction
-
-**A system is what make it does what it perform.**
+```
+A system is what make it does what it perform.
+```
 
 ### Words explanation
-
 * **A system** is a composition of nested systems composed of functions.
 * **A function** is a composition of process.
 * **A process** is a series of mechanical or chemical operations.
@@ -19,7 +19,6 @@ Framework to work any system.
 * **A [principle](https://github.com/Primerz/Work-a-system/tree/master/principles)** is a guideline composed by informations.
 
 ### Framework composition
-
 * **Define "what ?"**
   * [System composition **definition**](https://github.com/Primerz/Work-a-system/blob/master/definition/system%20composition%20definition.md) *(to know how to optimize the system)*
   * [System objectives **definition**](https://github.com/Primerz/Work-a-system/blob/master/definition/system%20objectives%20definition.md) *(to know what the system need to accomplish)*
