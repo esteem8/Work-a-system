@@ -1,6 +1,6 @@
 # Work a system
 
-Framework to work a system.
+Framework to work any system.
 
 ### Introduction
 
